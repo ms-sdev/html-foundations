@@ -1,4 +1,5 @@
 # Best Chocolate Chip Cookies
+![An image of a cookie](https://images.unsplash.com/photo-1590080874088-eec64895b423?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8Y29va2llc3xlbnwwfHwwfHx8MA%3D%3D)
 
 This recipe is from my dad and they are a favorite among friends and family. The secret ingredient is the coconut! _Be warned_, these will fly off of the plate!
 
@@ -26,5 +27,3 @@ This recipe is from my dad and they are a favorite among friends and family. The
 6. Bake for 10 minutes or until golden brown.
 
 [Click here](http://allrecipes.com/) to check out my other great recipes.
-
-![An image of a cookie](https://images.unsplash.com/photo-1590080874088-eec64895b423?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8Y29va2llc3xlbnwwfHwwfHx8MA%3D%3D)
